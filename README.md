@@ -8,4 +8,4 @@ The game terminates when the snake either touches its body or the wall. Then the
 
 ## Tech Stack
 
-Java Swing, AWT
+Java Swing, Java AWT
